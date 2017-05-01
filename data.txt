@@ -1,0 +1,12 @@
+blanche;0
+bleu-fonce;0
+jaune;1
+rose;0
+orange;0
+vert-fonce;0
+marron;0
+mauve;0
+noire;0
+violette;0
+bleu-clair;0
+vert-clair;0

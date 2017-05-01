@@ -1,0 +1,95 @@
+#checkbutton1 {
+background-color: #bbb;
+}
+
+#label_question {
+  font-size:12pt;
+}
+
+GtkGrid#ligne1.faux {
+    background-color:#aaaaaa;
+    background:#aaaaaa;
+}
+GtkGrid#ligne2.faux {
+    background-color:#aaaaaa;
+    background:#aaaaaa;
+}
+GtkGrid#ligne3.faux {
+    background-color:#aaaaaa;
+    background:#aaaaaa;
+}
+GtkGrid#ligne4.faux {
+    background-color:#aaaaaa;
+    background:#aaaaaa;
+}
+GtkGrid#ligne5.faux {
+    background-color:#aaaaaa;
+    background:#aaaaaa;
+}
+GtkGrid#ligne6.faux {
+    background-color:#aaaaaa;
+    background:#aaaaaa;
+}
+GtkGrid#ligne7.faux {
+    background-color:#aaaaaa;
+    background:#aaaaaa;
+}
+GtkGrid#ligne8.faux {
+    background-color:#aaaaaa;
+    background:#aaaaaa;
+}
+GtkGrid#ligne9.faux {
+    background-color:#aaaaaa;
+    background:#aaaaaa;
+}
+GtkGrid#ligne10.faux {
+    background-color:#aaaaaa;
+    background:#aaaaaa;
+}
+
+
+
+
+GtkGrid#ligne1.juste {
+    background-color:#dae7c2;
+    background:#dae7c2;
+}
+GtkGrid#ligne2.juste {
+    background-color:#dae7c2;
+    background:#dae7c2;
+}
+GtkGrid#ligne3.juste {
+    background-color:#dae7c2;
+    background:#dae7c2;
+}
+GtkGrid#ligne4.juste {
+    background-color:#dae7c2;
+    background:#dae7c2;
+}
+GtkGrid#ligne5.juste {
+    background-color:#dae7c2;
+    background:#dae7c2;
+}
+GtkGrid#ligne6.juste {
+    background-color:#dae7c2;
+    background:#dae7c2;
+}
+GtkGrid#ligne7.juste {
+    background-color:#dae7c2;
+    background:#dae7c2;
+}
+GtkGrid#ligne8.juste {
+    background-color:#dae7c2;
+    background:#dae7c2;
+}
+GtkGrid#ligne9.juste {
+    background-color:#dae7c2;
+    background:#dae7c2;
+}
+GtkGrid#ligne10.juste {
+    background-color:#dae7c2;
+    background:#dae7c2;
+}
+
+
+
